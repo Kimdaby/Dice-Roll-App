@@ -2,13 +2,13 @@
 
 Dice Roll app that was created with HTML/CSS and JavaScript
 
-### Make your bets and roll the dice! [here](https://kimdaby.github.io/Todo-App/)
+### Make your bets and roll the dice! [here](https://kimdaby.github.io/Dice-Roll-App/)
 
-![todo](todo.png)
+![Dice](DiceGame.png)
 
 ## Summary
 
-To-Do application is a web-based task management system. The user interface is created using HTML forms, allowing users to input and submit tasks easily. CSS styling and positioning are applied to enhance the visual appeal and layout of the application, employing concepts like the box model for precise control over element spacing. JavaScript is utilized to enhance interactivity by implementing event listeners. These listeners respond to user actions, such as button clicks or form submissions. Additionally, DOM (Document Object Model) manipulation is employed to dynamically update the webpage content without requiring a full page reload. This allows for seamless and efficient task management.
+The dice roll game is a captivating web-based application created with HTML, CSS, and JavaScript. Players bet on a number between 1 and 6, representing possible dice outcomes. JavaScript handles game logic, validating inputs and generating random dice rolls. If the player's bet matches the roll, they win and their balance increases; otherwise, they lose the bet amount. HTML provides the structure, CSS adds visual appeal, and JavaScript ensures seamless functionality. The game dynamically updates the player's balance and delivers informative messages, offering an immersive and exciting gaming experience in a compact and accessible format.
 
 ## Author
 
